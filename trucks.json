@@ -1,0 +1,17 @@
+# segue um exemplo de json para este código. é possivel adicionar ou remover itens, só basta mexer um pouco nas funçoes, Entrys e fazer os gets corretos.
+{
+    "trucks": [
+        {
+            "plate": "AKV-J812",
+            "transp": "star"
+        },
+        {
+            "plate": "ABC-123",
+            "transp": "Microsoft"
+        },
+        {
+            "plate": "Code",
+            "transp": "Amazon"
+        }
+    ]
+}
